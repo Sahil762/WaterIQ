@@ -19,9 +19,7 @@ The objective of this project is to develop a machine learning model to predict 
 ```sh
 WaterIQ/
 │
-├── data/
-│   └── Water Quality Prediction.csv
-│
+|
 ├── notebooks/
 │   └── Water_Quality_Prediction.ipynb
 │
@@ -31,7 +29,6 @@ WaterIQ/
 │   └── evaluation.py
 │
 ├── README.md
-├── requirements.txt
 └── LICENSE
 ```
 
